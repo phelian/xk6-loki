@@ -2,3 +2,6 @@ k6
 package.json
 vendor/
 .idea
+
+.go
+.direnv
